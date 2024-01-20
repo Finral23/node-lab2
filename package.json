@@ -1,0 +1,21 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "lab2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xnquaint/node-lab2.git"
+  },
+  "author": "xnquaint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xnquaint/node-lab2/issues"
+  },
+  "homepage": "https://github.com/xnquaint/node-lab2#readme"
+}
