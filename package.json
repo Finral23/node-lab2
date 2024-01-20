@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/xnquaint/node-lab2.git"
+    "url": "git+ssh://git@github.com/Finral23/node-lab2.git"
   },
-  "author": "xnquaint",
+  "author": "Finral23",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xnquaint/node-lab2/issues"
+    "url": "https://github.com/Finral23/node-lab2/issues"
   },
-  "homepage": "https://github.com/xnquaint/node-lab2#readme"
+  "homepage": "https://github.com/Finral23/node-lab2#readme"
 }
